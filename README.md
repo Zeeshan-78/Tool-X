@@ -30,7 +30,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Zeeshan-Ali/Tool-X.git`
+* `git clone https://github.com/Zeeshan-Ali78/Tool-X.git`
 
 * `cd Tool-X`
 
