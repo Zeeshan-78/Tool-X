@@ -8,8 +8,8 @@ Tool-X was developed for Termux and other Android terminals. Using Tool-X, you c
 
 <br>
 <p align="center">
-<img width="50%" src="core/toolx.png"/>
-<img width="50%" src="core/toolx_cat.png"/>
+<img width="45%" src="core/toolx.png"/>
+<img width="45%" src="core/toolx_cat.png"/>
 </p>
 
 ------------------------------------------------------------------------
